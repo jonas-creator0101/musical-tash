@@ -1,3 +1,1 @@
-Iniciando um repositório Git
-3-Git e Github
-= Conhecendo o Git
+Utilizando o Github como um controle de versão completo
